@@ -1,6 +1,6 @@
 # IPTV Checker
 ## Check m3u playlists and save the working streams.
-## This tool works on only Windows-based computers.
+## This tool works only on Windows-based computers.
 ### To-Do List:
 - [ ] Add channel names.
 - [ ] Fix bugs, if i find some.

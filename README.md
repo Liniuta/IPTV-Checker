@@ -4,7 +4,7 @@
 ### To-Do List:
 - [ ] Add channel names.
 - [ ] Fix bugs, if i find some.
-**This tool works only Windows-based on computers.**
+**This tool works only on Windows-based computers.**
 ### To install requirements you can use [install.bat](https://github.com/Liniuta/IPTV-Checker/blob/main/scripts/install.bat) or run this command:
 ```
 pip install -r requirements.txt
